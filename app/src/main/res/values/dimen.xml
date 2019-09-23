@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="toolbar_last_item">32dp</dimen>
+    <dimen name="repo_item_text_size">14sp</dimen>
+    <dimen name="toolbar_title_size">22sp</dimen>
+    <dimen name="half_activity">8dp</dimen>
+</resources>
