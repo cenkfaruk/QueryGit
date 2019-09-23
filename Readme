@@ -1,0 +1,3 @@
+Query git MVP architecture Kotlin based project that you can query repo of any github users.
+Rxjava and retrofit is the base libraries fot backend and model architecture
+Dagger is also good option to have access anykind of object whenever you need
